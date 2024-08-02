@@ -367,7 +367,7 @@ button{
         row-gap: 30px;
     }
     .card{
-        width: 85%;
+        width: 87%;
     }
     .card{
    
@@ -386,7 +386,9 @@ button{
     .cards{
         justify-content: center;
         gap: 20px;
+        width: 100%;
     }
+
     .card > div{
         width: 100%;
     }
